@@ -1,0 +1,1 @@
+This is a repository of code used to analyze optical motion capture and kinematics through OpenSim using MATLAB. Each code has it's own description. In general however, you should progress from P (Process) to O (OpenSim) to A (Analyze) in order of increasing number.
